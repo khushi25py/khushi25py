@@ -1,58 +1,40 @@
-# 👋 Hi there, I'm Khushi Gupta  
-
-🚀 **Full Stack Developer | Python & JavaScript Enthusiast | Lifelong Learner | CyberSecurity Enthusiast**
-
-I’m passionate about building dynamic, scalable web applications and crafting clean, efficient code.  
-Currently exploring **React, Django REST Framework, and MySQL** to strengthen my full-stack development skills.  
-
----
-
-### 🧠 Tech Stack
-
-**Frontend:**  
-HTML | CSS | JavaScript (ES6) | React  
-
-**Backend:**  
-Python | Django | Django REST Framework  
-
-**Database:**  
-MySQL | SQLite  
-
-**Other Tools:**  
-Git | GitHub | VS Code | Postman | Render | Vercel  
-
----
-
-### 💻 Featured Projects
-
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 🌐 [Portfolio Website](#) | Personal portfolio showcasing my skills and projects | HTML, CSS, JS |
-| ✅ [Task Manager App](#) | Full Stack CRUD app with user authentication | React, Django REST, MySQL |
-| 📰 [Blog API](#) | RESTful API for creating and managing blog posts | Django REST Framework |
-
-*(Live links and repositories coming soon...)*
-
----
-
-### 📈 GitHub Stats
+<h1 align="center">👋 Hey, I'm Khushi Gupta</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushi25py&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi25py&theme=radical" height="150" />
+  <b>💻 Full Stack Developer | Python & Django | Frontend Enthusiast</b>
 </p>
 
 ---
 
-### 📫 Connect with Me  
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/khushi-python/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:guptakhushi2514@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+### 🚀 About Me
+- 🎯 Passionate about building **end-to-end web applications**  
+- 🧠 Skilled in **Python, Django, REST APIs, React, and MySQL**  
+- ⚡ Currently exploring **deployment, cloud hosting, and API design**  
+- 💼 Open to internships and collaborations in web development  
 
 ---
 
-💬 *“Code. Create. Learn. Repeat.”*  
-⭐ Don’t forget to check out my repositories and give feedback!
+### 🧩 Tech Stack
+**Frontend:** HTML | CSS | JavaScript | React | Angular (basic)  
+**Backend:** Python | Django | REST API  
+**Database:** MySQL | SQLite  
+**Tools:** Git | GitHub | VS Code | Postman  
 
+---
+
+### 🌟 Featured Projects
+| Project | Description | Tech |
+|----------|--------------|------|
+| [🏥 Practo Appointment System](https://github.com/khushi25py/Practo-Appointment-System) | Full Stack Doctor–Patient Appointment Web App | Django, MySQL, HTML, CSS, JS |
+| [📘 Django REST API - Tutorials CRUD](https://github.com/khushi25py/DjangoRestApi-Tutorials) | REST API with CRUD operations & validations | Django REST Framework, MySQL |
+
+---
+
+### 📫 Let's Connect
+- 💻 [GitHub](https://github.com/khushi25py)
+- 💼 [LinkedIn](https://www.linkedin.com/in/khushi-python/)
+- ✉️ Email:guptakhushi2514@gmail.com
+
+---
+
+<p align="center">✨ “Code. Build. Deploy. Repeat.” ✨</p>
