@@ -1,31 +1,32 @@
 <h1 align="center">👋 Hey, I'm Khushi Gupta</h1>
 
 <p align="center">
-  <b>💻 Full Stack Developer | Python & Django | Frontend Enthusiast</b>
+  <b>💻 Backend & Full Stack Developer | API Testing & Debugging | Python & Node.js</b>
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🎯 Passionate about building **end-to-end web applications**  
-- 🧠 Skilled in **Python, Django, REST APIs, React, and MySQL**  
-- ⚡ Currently exploring **deployment, cloud hosting, and API design**  
-- 💼 Open to internships and collaborations in web development  
+- 🎯 Passionate about building **real-world, impact-driven web applications**  
+- 🧠 Skilled in **API development, testing, debugging, and database validation**  
+- ⚡ Experienced with **Python, Django, React, Node.js, and MySQL**  
+- 💼 Currently working on backend systems and **API reliability & performance**  
 
 ---
 
 ### 🧩 Tech Stack
-**Frontend:** HTML | CSS | JavaScript | React | Angular (basic)  
-**Backend:** Python | Django | REST API  
+**Frontend:** HTML | CSS | JavaScript | React  
+**Backend:** Python | Django | Node.js | Express.js  
 **Database:** MySQL | SQLite  
-**Tools:** Git | GitHub | VS Code | Postman  
+**Tools:** Git | GitHub | Postman | VS Code  
 
 ---
 
 ### 🌟 Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| [🏥 Practo Appointment System](https://github.com/khushi25py/Practo-Appointment-System) | Full Stack Doctor–Patient Appointment Web App | Django, MySQL, HTML, CSS, JS |
+| [♻️ SHELFLIFE+ — Food Waste Marketplace](https://github.com/khushi25py/SHELFLIFE) | Full-stack platform to reduce food wastage by selling near-expiry items & connecting with NGOs | React, Node.js, Express, MySQL |
+| [🏥 Practo Appointment System](https://github.com/khushi25py/Practo-Appointment-System) | Doctor–Patient appointment system with authentication & scheduling | Django, HTML, CSS, JS |
 | [📘 Django REST API - Tutorials CRUD](https://github.com/khushi25py/DjangoRestApi-Tutorials) | REST API with CRUD operations & validations | Django REST Framework, MySQL |
 
 ---
@@ -33,8 +34,8 @@
 ### 📫 Let's Connect
 - 💻 [GitHub](https://github.com/khushi25py)
 - 💼 [LinkedIn](https://www.linkedin.com/in/khushi-python/)
-- ✉️ Email:guptakhushi2514@gmail.com
+- ✉️ Email: guptakhushi2514@gmail.com
 
 ---
 
-<p align="center">✨ “Code. Build. Deploy. Repeat.” ✨</p>
+<p align="center">✨ Building scalable systems & solving real-world problems ✨</p>
