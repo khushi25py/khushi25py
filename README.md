@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Khushi Gupta</h1>
 
 <p align="center">
-  <b>💻 Backend & Full Stack Developer | API Testing & Debugging | Python & Node.js</b>
+  <b>🛡️ SOC Analyst | API Security Testing | Log Analysis & Threat Detection</b>
 </p>
 
 ---
@@ -56,4 +56,4 @@ Git | GitHub | VS Code
 
 ---
 
-<p align="center">✨ Building scalable systems & solving real-world problems ✨</p>
+<p align="center">🛡️ Securing APIs, analyzing logs & building reliable backend systems</p>
