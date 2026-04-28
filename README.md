@@ -7,22 +7,34 @@
 ---
 
 ### 🚀 About Me
-🔍 Focused on API Testing, Debugging & Backend Validation
-🛡️ Passionate about Cybersecurity, SOC Operations & Threat Detection
-🧠 Skilled in analyzing API behavior, errors, and system reliability
-⚡ Experienced with Python, Django, Node.js, React, and MySQL
-📊 Hands-on with log analysis, brute-force detection & security monitoring
+- 🔍 Focused on **API Testing, Debugging & Backend Validation**  
+- 🛡️ Passionate about **Cybersecurity, SOC Operations & Threat Detection**  
+- 🧠 Skilled in analyzing **API behavior, errors & system reliability**  
+- ⚡ Experienced with **Python, Django, Node.js, React & MySQL**  
+- 📊 Hands-on with **log analysis, brute-force detection & security monitoring**
  
 
 ---
 
 ### 🧩 Tech Stack
-Frontend: HTML | CSS | JavaScript | Angular
-Backend: Python | Django 
-Database: MySQL | SQLite
-API & Testing: Postman | REST APIs | Debugging | Validation
-Security: Log Analysis | Event Viewer | SIEM Basics | OWASP Top 10
-Tools: Git | GitHub | VS Code 
+
+**Frontend:**  
+HTML | CSS | JavaScript | Angular  
+
+**Backend:**  
+Python | Django  
+
+**Database:**  
+MySQL | SQLite  
+
+**API & Testing:**  
+Postman | REST APIs | Debugging | Validation  
+
+**Security:**  
+Log Analysis | Event Viewer | SIEM Basics | OWASP Top 10  
+
+**Tools:**  
+Git | GitHub | VS Code  
 
 ---
 
