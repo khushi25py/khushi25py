@@ -7,27 +7,33 @@
 ---
 
 ### 🚀 About Me
-- 🎯 Passionate about building **real-world, impact-driven web applications**  
-- 🧠 Skilled in **API development, testing, debugging, and database validation**  
-- ⚡ Experienced with **Python, Django, React, Node.js, and MySQL**  
-- 💼 Currently working on backend systems and **API reliability & performance**  
+🔍 Focused on API Testing, Debugging & Backend Validation
+🛡️ Passionate about Cybersecurity, SOC Operations & Threat Detection
+🧠 Skilled in analyzing API behavior, errors, and system reliability
+⚡ Experienced with Python, Django, Node.js, React, and MySQL
+📊 Hands-on with log analysis, brute-force detection & security monitoring
+ 
 
 ---
 
 ### 🧩 Tech Stack
-**Frontend:** HTML | CSS | JavaScript | React  
-**Backend:** Python | Django | Node.js | Express.js  
-**Database:** MySQL | SQLite  
-**Tools:** Git | GitHub | Postman | VS Code  
+Frontend: HTML | CSS | JavaScript | Angular
+Backend: Python | Django 
+Database: MySQL | SQLite
+API & Testing: Postman | REST APIs | Debugging | Validation
+Security: Log Analysis | Event Viewer | SIEM Basics | OWASP Top 10
+Tools: Git | GitHub | VS Code 
 
 ---
 
-### 🌟 Featured Projects
-| Project | Description | Tech |
-|----------|--------------|------|
-| [♻️ SHELFLIFE+ — Food Waste Marketplace](https://github.com/khushi25py/SHELFLIFE) | Full-stack platform to reduce food wastage by selling near-expiry items & connecting with NGOs | React, Node.js, Express, MySQL |
-| [🏥 Practo Appointment System](https://github.com/khushi25py/Practo-Appointment-System) | Doctor–Patient appointment system with authentication & scheduling | Django, HTML, CSS, JS |
-| [📘 Django REST API - Tutorials CRUD](https://github.com/khushi25py/DjangoRestApi-Tutorials) | REST API with CRUD operations & validations | Django REST Framework, MySQL |
+### ### 🌟 Featured Projects
+
+| Project                                                                                      | Description                                                                                                                                                                 | Tech                               |
+| -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+| [🔐 SOC Log Analysis Lab](https://github.com/khushi25py/SOC-Log-Analysis-Lab)                | Analyzed Windows Security logs to detect failed login attempts & brute-force patterns using Event IDs 4624 & 4625; identified suspicious activity through log investigation | Windows Event Viewer, Log Analysis |
+| [♻️ SHELFLIFE+ — Food Waste Marketplace](https://github.com/khushi25py/SHELFLIFE)            | Full-stack platform with strong backend validation, API handling & data integrity; focuses on reliability and secure data flow                                              | React, Node.js, Express, MySQL     |
+| [🏥 Practo Appointment System](https://github.com/khushi25py/Practo-Appointment-System)      | Doctor–Patient appointment system with authentication, structured data flow & validation                                                                                    | Django, HTML, CSS, JS              |
+| [📘 Django REST API - Tutorials CRUD](https://github.com/khushi25py/DjangoRestApi-Tutorials) | REST API with CRUD operations, validations & error handling                                                                                                                 | Django REST Framework, MySQL       |
 
 ---
 
